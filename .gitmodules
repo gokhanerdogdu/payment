@@ -1,0 +1,4 @@
+[submodule "naglis/misc-addons"]
+	path = naglis/misc-addons
+	url = git@github.com:naglis/misc-addons.git
+	branch = 10.0
